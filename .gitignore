@@ -1,0 +1,6 @@
+dogenv
+dogpredict/__pycache__
+dogpredict/migrations
+predictor/__pycache__
+predictor/migrations
+dog_breed_classifier_model.h5
